@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kholidirfangi
+- 👋 Hi, I’m Kholid Irfangi
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning HTML, CSS, and Javascrpit
 - 💞️ I’m looking to collaborate on Github
