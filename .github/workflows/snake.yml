@@ -1,4 +1,4 @@
-name: Generate Pacman contribution graph
+name: Generate Snake contribution graph
 
 on:
   schedule:
